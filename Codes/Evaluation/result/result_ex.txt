@@ -1,0 +1,250 @@
+GN/result/outputofGN1
+Normalised Mutual Information: 0.890257844596
+Adjusted Rand Index: 0.783885147397
+Fraction of Correctly Classified Nodes: 0.8347826086956521
+
+GN/result/outputofGN2
+Normalised Mutual Information: 0.890257844596
+Adjusted Rand Index: 0.783885147397
+Fraction of Correctly Classified Nodes: 0.8347826086956521
+
+GN/result/outputofGN3
+Normalised Mutual Information: 0.890257844596
+Adjusted Rand Index: 0.783885147397
+Fraction of Correctly Classified Nodes: 0.8347826086956521
+
+GN/result/outputofGN4
+Normalised Mutual Information: 0.890257844596
+Adjusted Rand Index: 0.783885147397
+Fraction of Correctly Classified Nodes: 0.8347826086956521
+
+GN/result/outputofGN5
+Normalised Mutual Information: 0.890257844596
+Adjusted Rand Index: 0.783885147397
+Fraction of Correctly Classified Nodes: 0.8347826086956521
+
+GN/result/outputofGN6
+Normalised Mutual Information: 0.890257844596
+Adjusted Rand Index: 0.783885147397
+Fraction of Correctly Classified Nodes: 0.8347826086956521
+
+GN/result/outputofGN7
+Normalised Mutual Information: 0.890257844596
+Adjusted Rand Index: 0.783885147397
+Fraction of Correctly Classified Nodes: 0.8347826086956521
+
+GN/result/outputofGN8
+Normalised Mutual Information: 0.890257844596
+Adjusted Rand Index: 0.783885147397
+Fraction of Correctly Classified Nodes: 0.8347826086956521
+
+GN/result/outputofGN9
+Normalised Mutual Information: 0.890257844596
+Adjusted Rand Index: 0.783885147397
+Fraction of Correctly Classified Nodes: 0.8347826086956521
+
+GN/result/outputofGN10
+Normalised Mutual Information: 0.890257844596
+Adjusted Rand Index: 0.783885147397
+Fraction of Correctly Classified Nodes: 0.8347826086956521
+
+Louvain/result/outputofLouvain1
+Normalised Mutual Information: 0.896440165903
+Adjusted Rand Index: 0.811178372999
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+Louvain/result/outputofLouvain2
+Normalised Mutual Information: 0.896440165903
+Adjusted Rand Index: 0.811178372999
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+Louvain/result/outputofLouvain3
+Normalised Mutual Information: 0.896440165903
+Adjusted Rand Index: 0.811178372999
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+Louvain/result/outputofLouvain4
+Normalised Mutual Information: 0.896440165903
+Adjusted Rand Index: 0.811178372999
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+Louvain/result/outputofLouvain5
+Normalised Mutual Information: 0.896440165903
+Adjusted Rand Index: 0.811178372999
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+Louvain/result/outputofLouvain6
+Normalised Mutual Information: 0.896440165903
+Adjusted Rand Index: 0.811178372999
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+Louvain/result/outputofLouvain7
+Normalised Mutual Information: 0.896440165903
+Adjusted Rand Index: 0.811178372999
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+Louvain/result/outputofLouvain8
+Normalised Mutual Information: 0.896440165903
+Adjusted Rand Index: 0.811178372999
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+Louvain/result/outputofLouvain9
+Normalised Mutual Information: 0.896440165903
+Adjusted Rand Index: 0.811178372999
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+Louvain/result/outputofLouvain10
+Normalised Mutual Information: 0.896440165903
+Adjusted Rand Index: 0.811178372999
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+SC/result/outputofUSC1
+Normalised Mutual Information: 0.867480414858
+Adjusted Rand Index: 0.717635338139
+Fraction of Correctly Classified Nodes: 0.8173913043478261
+
+SC/result/outputofUSC2
+Normalised Mutual Information: 0.84279254403
+Adjusted Rand Index: 0.707330662892
+Fraction of Correctly Classified Nodes: 0.7913043478260869
+
+SC/result/outputofUSC3
+Normalised Mutual Information: 0.894436519913
+Adjusted Rand Index: 0.793724484413
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+SC/result/outputofUSC4
+Normalised Mutual Information: 0.872135902255
+Adjusted Rand Index: 0.677834125878
+Fraction of Correctly Classified Nodes: 0.6869565217391305
+
+SC/result/outputofUSC5
+Normalised Mutual Information: 0.863990523319
+Adjusted Rand Index: 0.738141084418
+Fraction of Correctly Classified Nodes: 0.8
+
+SC/result/outputofUSC6
+Normalised Mutual Information: 0.858756323707
+Adjusted Rand Index: 0.736479881125
+Fraction of Correctly Classified Nodes: 0.7913043478260869
+
+SC/result/outputofUSC7
+Normalised Mutual Information: 0.89363321701
+Adjusted Rand Index: 0.763457135095
+Fraction of Correctly Classified Nodes: 0.8
+
+SC/result/outputofUSC8
+Normalised Mutual Information: 0.919262310368
+Adjusted Rand Index: 0.844508242267
+Fraction of Correctly Classified Nodes: 0.9217391304347826
+
+SC/result/outputofUSC9
+Normalised Mutual Information: 0.925405176737
+Adjusted Rand Index: 0.867956280513
+Fraction of Correctly Classified Nodes: 0.9217391304347826
+
+SC/result/outputofUSC10
+Normalised Mutual Information: 0.874947858428
+Adjusted Rand Index: 0.732757100018
+Fraction of Correctly Classified Nodes: 0.808695652173913
+
+SC/result/outputofNSC1
+Normalised Mutual Information: 0.866989201887
+Adjusted Rand Index: 0.736085676534
+Fraction of Correctly Classified Nodes: 0.8
+
+SC/result/outputofNSC2
+Normalised Mutual Information: 0.909362275574
+Adjusted Rand Index: 0.852451626326
+Fraction of Correctly Classified Nodes: 0.9043478260869565
+
+SC/result/outputofNSC3
+Normalised Mutual Information: 0.882889850755
+Adjusted Rand Index: 0.80884084967
+Fraction of Correctly Classified Nodes: 0.8695652173913043
+
+SC/result/outputofNSC4
+Normalised Mutual Information: 0.909435777599
+Adjusted Rand Index: 0.824173793242
+Fraction of Correctly Classified Nodes: 0.782608695652174
+
+SC/result/outputofNSC5
+Normalised Mutual Information: 0.843605717084
+Adjusted Rand Index: 0.702498594039
+Fraction of Correctly Classified Nodes: 0.7913043478260869
+
+SC/result/outputofNSC6
+Normalised Mutual Information: 0.934474770917
+Adjusted Rand Index: 0.904086738949
+Fraction of Correctly Classified Nodes: 0.9304347826086956
+
+SC/result/outputofNSC7
+Normalised Mutual Information: 0.907432307731
+Adjusted Rand Index: 0.812584277099
+Fraction of Correctly Classified Nodes: 0.8608695652173913
+
+SC/result/outputofNSC8
+Normalised Mutual Information: 0.934474770917
+Adjusted Rand Index: 0.904086738949
+Fraction of Correctly Classified Nodes: 0.9304347826086956
+
+SC/result/outputofNSC9
+Normalised Mutual Information: 0.907256131398
+Adjusted Rand Index: 0.806390915393
+Fraction of Correctly Classified Nodes: 0.8434782608695652
+
+SC/result/outputofNSC10
+Normalised Mutual Information: 0.85276737077
+Adjusted Rand Index: 0.727465161404
+Fraction of Correctly Classified Nodes: 0.8
+
+GA-Net/result/outputofGA1
+Normalised Mutual Information: 0.512905076781
+Adjusted Rand Index: 0.202534296785
+Fraction of Correctly Classified Nodes: 0.20869565217391303
+
+GA-Net/result/outputofGA2
+Normalised Mutual Information: 0.479377925866
+Adjusted Rand Index: 0.171441941778
+Fraction of Correctly Classified Nodes: 0.19130434782608696
+
+GA-Net/result/outputofGA3
+Normalised Mutual Information: 0.502065351836
+Adjusted Rand Index: 0.222231186049
+Fraction of Correctly Classified Nodes: 0.22608695652173913
+
+GA-Net/result/outputofGA4
+Normalised Mutual Information: 0.560705961675
+Adjusted Rand Index: 0.231502531283
+Fraction of Correctly Classified Nodes: 0.19130434782608696
+
+GA-Net/result/outputofGA5
+Normalised Mutual Information: 0.453269937744
+Adjusted Rand Index: 0.196754202567
+Fraction of Correctly Classified Nodes: 0.08695652173913043
+
+GA-Net/result/outputofGA6
+Normalised Mutual Information: 0.47191968333
+Adjusted Rand Index: 0.184927194817
+Fraction of Correctly Classified Nodes: 0.19130434782608696
+
+GA-Net/result/outputofGA7
+Normalised Mutual Information: 0.512710286747
+Adjusted Rand Index: 0.196198274211
+Fraction of Correctly Classified Nodes: 0.26956521739130435
+
+GA-Net/result/outputofGA8
+Normalised Mutual Information: 0.458189708754
+Adjusted Rand Index: 0.184113611649
+Fraction of Correctly Classified Nodes: 0.12173913043478261
+
+GA-Net/result/outputofGA9
+Normalised Mutual Information: 0.604079379164
+Adjusted Rand Index: 0.259284928798
+Fraction of Correctly Classified Nodes: 0.33043478260869563
+
+GA-Net/result/outputofGA10
+Normalised Mutual Information: 0.537113771553
+Adjusted Rand Index: 0.206569528549
+Fraction of Correctly Classified Nodes: 0.4260869565217391
+
